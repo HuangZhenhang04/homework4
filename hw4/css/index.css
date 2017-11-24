@@ -1,0 +1,77 @@
+		#headerer{
+			width: 1240px;
+			height: 120px;
+			background-color: white;
+			margin:0 auto;
+		}
+		#header{
+			background-image: url(../images/bXoAlw8gT66vBo1wcFoO_IMG_9181.png);
+			width: 1240px;
+			height: 794px;
+			margin:0 auto;
+			text-align: center;
+			font-size: 30px;
+		}
+		.main1{
+			width: 620px;
+			height: 520px;
+			background-image: url(../images/001.png);
+			border: px solid red;
+			float:left;
+			text-align: center;
+			padding-top: 100px;
+		}
+		.main2{
+			width: 620px;
+			height: 470px;
+			background-image: url(../images/002.png);
+			border: px solid red;
+			float:left;
+			padding-top: 150px;
+			text-align: center;
+		}
+		#baba{
+			width: 1240px;
+			height: 620px;
+			float: left;
+			left: 9.2%;
+			position: relative;
+		}
+		#h1{
+			font-size: 30px; color: white;
+		}
+		#Maguwohost{
+			padding-top: 50px;
+		}
+		#nav li{float: right;
+			margin-left:60px;
+			text-align: center;
+		}
+		#nav a{
+			font-size: 17px;
+			color: black;
+		}
+		#daohang{
+			position: relative;
+			float: left;
+			left: 20%;
+			margin-top: -30px;
+		}
+		#nav a:hover{
+			color: yellow;
+		}
+		#button{
+			width: 125px;
+			height: 30px;
+			text-align: center;
+			border: 1px solid red;
+			font-size: 13px;
+			background-color: yellow;
+		}
+		#h1{
+			width: 881px;
+			height: 43px;
+			border:1px solid red;
+			text-align: center;
+			margin-left: 300px;
+		}
